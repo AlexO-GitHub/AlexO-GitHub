@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python en API's
 - 🌱 I’m currently learning Python en API's
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me alex.oogst@gmail.com
+- 📫 How to reach me al.oogst@gmail.com
 
 <!---
 AlexO-GitHub/AlexO-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
